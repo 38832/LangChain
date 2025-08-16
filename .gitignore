@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python compiled files (often in virtual envs)
+__pycache__/
+*.pyc
+
+# Optional: If using pipenv
+Pipfile.lock
+
+# Optional: If using poetry
+poetry.lock
