@@ -11,3 +11,6 @@ sse-starlette
 bs4
 chromadb
 faiss-cpu
+wikipedia
+arxiv
+langchainhub
