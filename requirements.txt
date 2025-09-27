@@ -15,3 +15,7 @@ wikipedia
 arxiv
 langchainhub
 sentence-transformers
+langchain-groq
+PyPDF2
+langchain_google_genai
+pypdf
